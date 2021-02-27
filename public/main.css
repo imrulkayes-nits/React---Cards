@@ -1,0 +1,43 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headingStyle {
+    background-color: rebeccapurple;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 600;
+    color: #fff;
+    padding: 20px;
+}
+
+.card {
+    background: rgba(255, 0, 0, 0.5);
+    padding: 3rem;
+    display: inline-block;
+    margin: 3rem;
+    width: 40rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 12px 1px rgb(131, 125, 125);
+}
+.cardTitle {
+    color: rgb(75, 66, 66);
+    font-size: 2.4rem;    
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+.cardDesc {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: rgba(39, 35, 35, 0.5);
+    font-size: 1.4rem;
+}
+.cardFooter {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: rgb(97, 90, 90);
+    font-size: 2rem;
+    font-weight: 700;
+}
